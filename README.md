@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔨 Working on **Akademix**  
+- 🔨 Working on **TalentXray**  
 - 🚀 Learning **MERN Stack** & **DSA**  
 - 💬 Ask me about **Backend**, **Coding**, **Critical Thinking**  
 - 📩 Reach me at **gargpratyaksh100@gmail.com**  
@@ -60,13 +60,6 @@
 - Designed structured playlist support for switching between multiple audio tracks  
 **Tech:** React, Tailwind, Express, Mongoose
 
----
-
-### 🔹 **Portfolio Website**
-**Aug 2025 – Sep 2025**  
-- Modern, responsive UI  
-- High performance (Full Lighthouse score)  
-**Tech:** React, Tailwind, Framer Motion  
 
 ---
 
@@ -75,8 +68,8 @@
 - **B.Tech CSE – Lovely Professional University**  
   CGPA: **8.66 / 10** (2023–2027)
 
-- **Intermediate – 69.6% (2022)**  
-- **Matriculation – 98.2% (2020)**  
+- **Intermediate – 69.6% (2023)**  
+- **Matriculation – 98.2% (2021)**  
 
 ---
 
@@ -86,23 +79,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsingh73&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh73&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajsingh73&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/raj-singh-a1a819283/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:raj85singh95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/pratyaksh-garg-a1a9a0297/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:gargpratyaksh100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
