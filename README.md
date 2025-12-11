@@ -3,7 +3,7 @@
 <h3 align="center">Code Enthusiast • MERN Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://in.pinterest.com/pin/3448137210416810/" width="100%" alt="Coding Animation GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZqNWFzbnc3aW1sangxc3E2bm9jejF1d3h5ZHdsN2NvaTYwNDN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="80%" alt="Coding Animation GIF" />
 </p>
 ---
 
@@ -52,12 +52,12 @@
 
 ## 🧩 Projects
 
-### 🔹 **Home Ease (Full-Stack Project)**
-**May 2025 – Jun 2025**  
-- Secure Login with **JWT & role-based access**  
-- Scalable **MongoDB schemas**  
-- Interactive UI for booking services  
-- Tools integrated for smooth user flow  
+### 🔹 **Music Player(Full-Stack Project)**
+**Oct 2025 – Nov 2025**  
+- Implemented a responsive, interactive music player with clean UI and smooth playback experience**  
+- Added core functionality including play/pause, next/previous, seek control, and progress tracking**  
+- Interactive UI for music services  
+- Designed structured playlist support for switching between multiple audio tracks  
 **Tech:** React, Tailwind, Express, Mongoose
 
 ---
@@ -73,10 +73,10 @@
 ## 🎓 Education
 
 - **B.Tech CSE – Lovely Professional University**  
-  CGPA: **8.23 / 10** (2023–2027)
+  CGPA: **8.66 / 10** (2023–2027)
 
-- **Intermediate – 79% (2022)**  
-- **Matriculation – 86.3% (2020)**  
+- **Intermediate – 69.6% (2022)**  
+- **Matriculation – 98.2% (2020)**  
 
 ---
 
